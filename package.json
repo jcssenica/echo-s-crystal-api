@@ -1,4 +1,5 @@
 {
+  "type": "module",
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^4.18.2",
@@ -8,6 +9,5 @@
   "scripts": {
     "develop": "nodemon main.js",
     "start": "node main.js"
-  },
-  "type": "module"
+  }
 }
